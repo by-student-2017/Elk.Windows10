@@ -1,0 +1,126 @@
+
+Elk code version 6.3.02 started
+
+Number of MPI processes :      1
+Number of OpenMP threads per MPI process :    4
+Total number of threads :      4
+Maximum OpenMP nesting level :    4
+
+Info(elk): current task :      0
+
+Info(checkmt): reduced muffin-tin radius of species   1 (Li) from   1.8000 to   1.7782
+
+Info(checkmt): reduced muffin-tin radius of species   2 (F) from   2.0000 to   1.9758
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     1
+ Calculated :    12.03009459    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     2
+ Calculated :    12.03004286    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     3
+ Calculated :    12.02982379    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     4
+ Calculated :    12.02938471    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     5
+ Calculated :    12.02864520    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     6
+ Calculated :    12.02824850    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     7
+ Calculated :    12.02807212    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     8
+ Calculated :    12.02807615    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop     9
+ Calculated :    12.02807456    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop    10
+ Calculated :    12.02807339    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop    11
+ Calculated :    12.02807313    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop    12
+ Calculated :    12.02807306    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop    13
+ Calculated :    12.02807301    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop    14
+ Calculated :    12.02807301    
+ Required   :    12.00000000    
+
+Warning(rhonorm): total charge density incorrect for s.c. loop    15
+ Calculated :    12.02807301    
+ Required   :    12.00000000    
+
+Info(elk): current task :    120
+
+Info(genpmat):      5 of      8 k-points
+Info(genpmat):      7 of      8 k-points
+Info(genpmat):      1 of      8 k-points
+Info(genpmat):      3 of      8 k-points
+Info(genpmat):      6 of      8 k-points
+Info(genpmat):      8 of      8 k-points
+Info(genpmat):      4 of      8 k-points
+Info(genpmat):      2 of      8 k-points
+
+Info(writepmat):
+ momentum matrix elements written to file PMAT.OUT
+
+Info(elk): current task :    121
+
+Info(dielectric):
+ dielectric tensor written to EPSILON_ij.OUT
+ optical conductivity written to SIGMA_ij.OUT
+ for components
+  i = 1, j = 1
+
+Info(elk): current task :    180
+
+Info(epsinv):      1 of      8 q-points
+Info(epsinv):      2 of      8 q-points
+Info(epsinv):      3 of      8 q-points
+Info(epsinv):      4 of      8 q-points
+Info(epsinv):      5 of      8 q-points
+Info(epsinv):      6 of      8 q-points
+Info(epsinv):      7 of      8 q-points
+Info(epsinv):      8 of      8 q-points
+
+Info(writeepsinv):
+ inverse RPA dielectric function, eps^(-1)(G,G',q,w), written to EPSINV.OUT
+
+Info(elk): current task :    185
+
+Info(writehmlbse): setting up BSE Hamiltonian matrix
+Info(hmlxbse):     17 of     64 k-points
+Info(hmlxbse):     33 of     64 k-points
+Info(hmlxbse):      1 of     64 k-points
+Info(hmlxbse):     49 of     64 k-points
+Info(hmlxbse):     18 of     64 k-points
+Info(hmlxbse):     34 of     64 k-points
+Info(hmlxbse):     50 of     64 k-points
+Info(hmlxbse):      2 of     64 k-points
+Info(hmlxbse):     19 of     64 k-points
+Info(hmlxbse):     35 of     64 k-points
+Info(hmlxbse):      3 of     64 k-points
+Info(hmlxbse):     51 of     64 k-points
+Info(hmlxbse):      4 of     64 k-points
