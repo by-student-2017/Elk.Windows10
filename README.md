@@ -8,6 +8,9 @@ Parallel calculation on OpenMP
 set OMP_NUM_THREADS=(number of core)
 
 
+e.g.,
+
+
 set OMP_NUM_THREADS=4
 
 
